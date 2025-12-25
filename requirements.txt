@@ -1,0 +1,20 @@
+# Core
+numpy
+pandas
+scikit-learn
+joblib
+
+# Model
+xgboost
+
+# API
+fastapi
+uvicorn
+python-multipart
+shap
+
+# Visualization / Notebook (dev)
+matplotlib
+seaborn
+jupyter
+ipykernel
